@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# git
+alias gs='git status'
+alias gl='git log'
+alias gb='git branch | grep "*"'
+alias gc='git checkout'
+alias gn='git checkout -b'
+alias ga='git add --all'
+alias gco='git commit -n -m'
+alias gp='git push origin'
+alias gpf='git push --force origin'
+alias gpu='git pull origin'
+alias gr='git rebase -i'
+alias grh='git reset --hard'
